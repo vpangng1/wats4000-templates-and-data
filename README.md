@@ -58,6 +58,7 @@ assignment.
 * Create a better simulation of pagination than the existing metadata at the top of the page
 * Alter the base URL of the poster images to pull larger or smaller images (be sure to keep them in proper scale)
 * Enhance some of the styles to give this project a nicer visual appeal
+* Modify the template to make the ratings information be displayed as a percentage bar (or as a circle diagram, or something else).
 
 ## Build Setup
 This project was created with the Vue-CLI. In order to get it running, use the following commands.
