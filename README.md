@@ -27,6 +27,11 @@ template in the `Results.vue` file in order to accomplish these goals. You will
 use various directives to loop through parts of the data and/or conditionals to
 modulate the display.
 
+Be sure to look at the `src/apiresults.js` file in order to see the JSON object
+that you will be working with for this project. This is a captured response from
+TMDb, and you can see more about the different data points on the
+documentation page for the [TMDb Discover API endpoint](https://developers.themoviedb.org/3/discover).
+
 Refer to the TODOs in the `src/components/Results.vue` file for additional
 information about where data goes and what to do in this project.
 
